@@ -65,8 +65,7 @@ Formulário interativo com campos de:
 
 Você pode acessar o site online pelo **GitHub Pages**:
 
-👉 [Clique aqui para ver o site](https://seuusuario.github.io/projeto_ong/)  
-*(troque “seuusuario” pelo seu nome de usuário do GitHub)*
+👉 [Clique aqui para ver o site](https://samscripted.github.io/projeto_ong/)
 
 Ou, se quiser ver no seu computador:
 1. Baixe o projeto (`Code → Download ZIP`);
@@ -86,4 +85,3 @@ como parte da disciplina de **Desenvolvimento Front-End**.
 ## 📜 Licença
 
 Este projeto é de uso **educacional** e pode ser adaptado livremente.  
-© 2025 — ONG Esperança Viva
